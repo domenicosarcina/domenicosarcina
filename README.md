@@ -16,14 +16,39 @@
 
 🛠 **Tech Stack**
 
-```js
-// 💻 Frontend
-React, Vite, TailwindCSS, Material UI, Redux, Zustand, React Router, React Hook Form, TanStack Query, Framer Motion
+**Frontend:**  
+React · Vite · TailwindCSS · Material UI · Redux · Zustand · React Router · React Hook Form · TanStack Query · Framer Motion · JSP
 
-// 🛠 Backend
-Java, Spring Boot, SOAP Services, REST, Oracle, DB2
+**Backend:**  
+Java · Spring Boot · SOAP Services · REST APIs · Oracle · DB2
 
-// ⚙️ Tools & IDEs
-Git, GitHub, Bitbucket, Jira, Eclipse, IntelliJ IDEA, Visual Studio Code, Postman, SoapUI
+**Tools & IDEs:**  
+Git · GitHub · Bitbucket · Jira · Eclipse · IntelliJ IDEA · Visual Studio Code · Postman · SoapUI · IBM RAD
+
+---
+
+🌱 **Currently Learning**
+
+- Clean architecture & scalable enterprise software patterns  
+- Advanced portfolio building and modern UI practices
+
+---
+
+📫 **Get in Touch**
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/domenico-sarcina/)  
+- 🌐 [Portfolio Website](https://domenicosarcina.dev)  
+- 📬 Email: me@domenicosarcina.dev
+- 💻 [GitHub](https://github.com/domenicosarcina)
+
+---
+
+⚡ **Fun Facts**
+
+- 🏀 I love playing basketball, lifting weights and running 
+- 🎯 I enjoy solving problems and writing clean, maintainable code  
+- 🤝 I value teamwork, communication, and continuous learning
+
+---
 
 
