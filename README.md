@@ -47,14 +47,6 @@
 ![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge&logo=data&logoColor=white)
 ![IBM RAD](https://img.shields.io/badge/IBM_RAD-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
-
----
-
-🌱 **Currently Learning**
-
-- Clean architecture & scalable enterprise software patterns  
-- Advanced portfolio building and modern UI practices
-
 ---
 
 📫 **Get in Touch**
